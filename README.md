@@ -1,7 +1,8 @@
 ### Hi there 👋, My Name is Suman Michael
-Active researcher and developer in the Areas of Deep Learning, Machine Learning, Full Stack, Database-Internals, Quantum Computing, etc.
+Diligent Research aspirant contributing to the field of Deep Learning. Adept with collecting and analyzing complex data. Focussed on research driven development.
 
-- 🔭 I’m currently working on https://github.com/ihdia/sanskrit-ocr and Data Migrator Tool (not public yet) 
+- 🔭 I’m currently working on https://github.com/sumanmichael/seq2seq-attention-ocr-pytorch, https://github.com/ihdia/sanskrit-ocr and Data Migrator Tool (not public yet)
+- ⚡ Recently written https://github.com/MigOpsRepos/gotsql and Also actively contributing to https://github.com/PyTorchLightning/lightning-flash 
 - 📫 How to reach me: sumanmichael01@gmail.com 
 
 
